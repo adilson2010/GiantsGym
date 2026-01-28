@@ -82,7 +82,7 @@ export default function Footer() {
             <h3 className="text-xl sm:text-2xl font-bold mb-4 sm:mb-6">Redes Sociais</h3>
             <div className="flex gap-3 sm:gap-4">
               <a
-                href="https://www.instagram.com/giantsgym"
+                href="https://www.instagram.com"
                 target="_blank"
                 rel="noopener noreferrer nofollow"
                 className="w-10 h-10 sm:w-12 sm:h-12 bg-white/10 rounded-full flex items-center justify-center hover:bg-[#FFB84D] hover:text-black transition-all duration-300 cursor-pointer"
@@ -91,7 +91,7 @@ export default function Footer() {
                 <i className="ri-instagram-line text-xl sm:text-2xl"></i>
               </a>
               <a
-                href="https://www.facebook.com/giantsgym"
+                href="https://www.facebook.com/"
                 target="_blank"
                 rel="noopener noreferrer nofollow"
                 className="w-10 h-10 sm:w-12 sm:h-12 bg-white/10 rounded-full flex items-center justify-center hover:bg-[#FFB84D] hover:text-black transition-all duration-300 cursor-pointer"
