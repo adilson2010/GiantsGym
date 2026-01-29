@@ -6,7 +6,7 @@ export default function Location() {
           {/* Map Column */}
           <div className="h-[400px] sm:h-[500px] md:h-[600px] w-full">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.1234567890!2d-46.9234567!3d-23.6034567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjPCsDM2JzEyLjQiUyA0NsKwNTUnMjQuNCJX!5e0!3m2!1spt-BR!2sbr!4v1234567890!5m2!1spt-BR!2sbr&q=Rua+Bandeirantes,+200+-+Portal+da+Primavera,+Cotia+-+SP,+06716-640"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.1234567890!2d-46.9234567!3d-23.6034567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjPCsDM2JzEyLjQiUyA0NsKwNTUnMjQuNCJX!5e0!3m2!1spt-BR!2sbr!4v1234567890!5m2!1spt-BR!2sbr&q=Rua+Bandeirantes,+122+-+Portal+da+Primavera,+Cotia+-+SP,+06716-640"
               width="100%"
               height="100%"
               style={{ border: 0 }}
