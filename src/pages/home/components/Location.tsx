@@ -31,12 +31,11 @@ export default function Location() {
                 </h4>
               </div>
               <address className="not-italic text-base sm:text-lg md:text-xl leading-relaxed text-white/90">
-                <strong>Rua Bandeirantes, 200</strong><br />
+                <strong>Rua Bandeirantes, 122</strong><br />
                 <strong>Portal da Primavera</strong><br />
                 CEP 06716-640 – <strong>Cotia</strong> – SP
               </address>
             </div>
-
             {/* Hours Block */}
             <div className="mb-8 sm:mb-10 md:mb-12">
               <div className="flex items-center gap-2 sm:gap-3 mb-3 sm:mb-4">
