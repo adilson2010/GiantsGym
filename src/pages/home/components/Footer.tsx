@@ -106,7 +106,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="border-t border-white/20 pt-6 sm:pt-8 text-center">
           <p className="text-white/80 text-xs sm:text-sm">
-            © 2025 Giants Gym Cotia. Todos os direitos reservados. | <a href="#" target="_blank" rel="noopener noreferrer nofollow" className="hover:text-[#FFB84D] transition-colors duration-300 cursor-pointer">Website Oficial</a>
+            © 2026 Giants Gym Cotia. Todos os direitos reservados. | <a href="#" target="_blank" rel="noopener noreferrer nofollow" className="hover:text-[#FFB84D] transition-colors duration-300 cursor-pointer">Website Oficial</a>
           </p>
         </div>
       </div>
