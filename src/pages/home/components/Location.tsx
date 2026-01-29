@@ -6,7 +6,7 @@ export default function Location() {
           {/* Map Column */}
           <div className="h-[400px] sm:h-[500px] md:h-[600px] w-full">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.1234567890!2d-46.9234567!3d-23.6034567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjPCsDM2JzEyLjQiUyA0NsKwNTUnMjQuNCJX!5e0!3m2!1spt-BR!2sbr!4v1234567890!5m2!1spt-BR!2sbr&q=Rua+Bandeirantes,+122+-+Portal+da+Primavera,+Cotia+-+SP,+06716-640"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.071307061753!2d-46.907858524668605!3d-23.601775478772062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cfa99488f6edbb%3A0xbeffbe6d65f4644d!2sSkyfit%20Academia!5e0!3m2!1spt-BR!2sbr!4v1769659608799!5m2!1spt-BR!2sbr"
               width="100%"
               height="100%"
               style={{ border: 0 }}
@@ -78,11 +78,11 @@ export default function Location() {
               </div>
               <div className="space-y-2 sm:space-y-3 mb-6 sm:mb-8">
                 <a
-                  href="mailto:cotia@giantsgym.com.br"
+                  href="mailto:contato@giantsgym.com.br"
                   className="flex items-center gap-2 sm:gap-3 text-sm sm:text-base md:text-lg text-white/90 hover:text-[#FFB84D] transition-colors duration-300 cursor-pointer break-all"
                 >
                   <i className="ri-mail-line text-lg sm:text-xl w-5 h-5 sm:w-6 sm:h-6 flex items-center justify-center flex-shrink-0"></i>
-                  <span>cotia@giantsgym.com.br</span>
+                  <span>contato@giantsgym.com.br</span>
                 </a>
                 <a
                   href="https://wa.me/5511933318000"
