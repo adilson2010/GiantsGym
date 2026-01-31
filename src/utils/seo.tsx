@@ -31,7 +31,7 @@ export const organizationSchema = {
   description: 'Academia completa em Cotia com equipamentos modernos, localizada no Portal da Primavera. Oferecemos planos flexíveis a partir de R$ 109,90/mês.',
   address: {
     '@type': 'PostalAddress',
-    streetAddress: 'Rua Bandeirantes, 200',
+    streetAddress: 'Rua Bandeirantes, 122 - Portal da Primavera',
     addressLocality: 'Cotia',
     addressRegion: 'SP',
     postalCode: '06716-640',
@@ -72,8 +72,8 @@ export const organizationSchema = {
     }
   ],
   sameAs: [
-    'https://www.instagram.com/giantsgym',
-    'https://www.facebook.com/giantsgym'
+    'https://www.instagram.com/giantsgymacademia',
+    'https://www.facebook.com/giantsgymacademia'
   ]
 };
 
