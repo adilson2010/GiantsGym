@@ -114,7 +114,7 @@ export const faqSchema = {
       name: 'A Giants Gym aceita Wellhub e TotalPass?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Sim, aceitamos tanto Wellhub quanto TotalPass como formas de pagamento.'
+        text: 'Sim, aceitamos tanto Wellhub quanto TotalPass.'
       }
     },
     {
