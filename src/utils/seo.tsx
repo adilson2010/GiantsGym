@@ -122,7 +122,7 @@ export const faqSchema = {
       name: 'Onde fica localizada a Giants Gym?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Estamos localizados na Rua Bandeirantes, 200 - Portal da Primavera, CEP 06716-640, Cotia - SP.'
+        text: 'Estamos localizados na Rua Bandeirantes, 122 - Portal da Primavera, CEP 06716-640, Cotia - SP.'
       }
     }
   ]
